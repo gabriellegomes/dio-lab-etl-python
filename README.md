@@ -1,1 +1,4 @@
-# dio-lab-etl-python
+Projeto de estudo de criação de Pipeline ETL. 
+Extract: Extração dos dados de clientes do csv customers.csv
+Transform: Calcula o total de clientes por profissão 
+Load: Cria novo arquivo csv com dados atualizados e gera um gráfico em barras usando a biblioteca Matplotlib.

@@ -1,0 +1,12 @@
+customer_id,first_name,last_name,e-mail,phone_number,job_id
+100,Steven,King,SKING,515.123.4567,Accountant 
+101,Neena,Kochhar,NKOCHHAR,515.123.4568,Anesthesiologist 
+102,Lex,De Haan,LDEHAAN,515.123.4569,Anesthesiologist 
+103,Alexander,Hunold,AHUNOLD,590.423.4567,Chef 
+104,Bruce,Ernst,BERNST,590.423.4568,Administrator 
+105,David,Austin,DAUSTIN,590.423.4569,Administrator 
+106,Valli,Pataballa,VPATABAL,590.423.4560,Administrator 
+107,Diana,Lorentz,DLORENTZ,590.423.5567,Babysitter 
+108,Nancy,Greenberg,NGREENBE,515.124.4569,Babysitter 
+109,Daniel,Faviet,DFAVIET,515.124.4169,Administrator 
+110,John,Chen,JCHEN,515.124.4269,Accountant 
